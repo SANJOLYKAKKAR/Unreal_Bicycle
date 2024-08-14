@@ -1,0 +1,19 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "5.4",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "BikeV3",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	],
+	"TargetPlatforms": [
+		"WindowsNoEditor"
+	]
+}
